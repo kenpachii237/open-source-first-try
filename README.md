@@ -1,3 +1,3 @@
 # Open-Source-First-Try
 
-This is my first description to my first open source!
+This is my first description to my first open source, be kind please...
